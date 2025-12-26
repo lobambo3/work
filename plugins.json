@@ -1,0 +1,108 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animehay.in&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/lohu883-design/filmabc",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "obama"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "AnimeHayProvider",
+        "url": "https://github.com/lohu883-design/filmabc/raw/refs/heads/main/AnimeHayProvider.cs3",
+        "name": "AnimeHayProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animevietsub.app&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/lohu883-design/filmabc",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "obama"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "AnimeVietsubProvider",
+        "url": "https://github.com/lohu883-design/filmabc/raw/refs/heads/main/AnimeVietsub.cs3",
+        "name": "AnimeVietsubProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=phimlongtieng.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/lohu883-design/filmabc",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "obama"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "PhimLongTiengProvider",
+        "url": "https://github.com/lohu883-design/filmabc/raw/refs/heads/main/PhimLongTieng.cs3",
+        "name": "PhimLongTieng"
+    },
+    {
+        "iconUrl": "https://yanhh3d.net/storage/settings/August2024/YOoAwtlobLbwKhiFwRZv.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/lohu883-design/filmabc",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "obama"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "YanHH3DProvider",
+        "url": "https://github.com/lohu883-design/filmabc/raw/refs/heads/main/Yan3dProvider.cs3",
+        "name": "YanHH3DProvider"
+    },
+    {
+        "iconUrl": "https://github.com/lohu883-design/filmabc/raw/refs/heads/main/icon/hhkungfu.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/lohu883-design/filmabc",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "obama"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 2,
+        "internalName": "HHkungfuProvider",
+        "url": "https://github.com/lohu883-design/filmabc/raw/refs/heads/main/HHKungFuProvider.cs3",
+        "name": "HHkungfuProvider"
+    },
+    {
+        "iconUrl": "https://github.com/lohu883-design/filmabc/raw/refs/heads/main/icon/phimviet.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/lohu883-design/filmabc",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "obama"
+        ],
+        "tvTypes": [
+            "Anime",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "PhimViet",
+        "description": "4k-FullHD",
+        "url": "https://github.com/lohu883-design/filmabc/raw/refs/heads/main/PhimBetaProvider.cs3",
+        "name": "PhimViet"
+    }
+]

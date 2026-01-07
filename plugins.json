@@ -17,6 +17,26 @@
         "name": "AnimeHayProvider"
     },
     {
+        "iconUrl": "https://play-lh.googleusercontent.com/TOTj0uMWp7cXkjXDXkcTZnPigUmpLRRiH956lHRJxStlY7ucxmtwMs_Kr2wOWYm0fSY=w240-h480-rw",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/lobambo3/work",
+        "fileSize": 107746,
+        "status": 1,
+        "authors": [
+            "obama"
+        ],
+        "tvTypes": [
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 29,
+        "internalName": "FshareProvider",
+        "description": "Download FullHD, 2K, 4K with Fshare Vip account",
+        "url": "https://github.com/lobambo3/work/raw/refs/heads/main/FshareProvider.cs3",
+        "name": "FshareProvider"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=animevietsub.app&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/lobambo3/work",

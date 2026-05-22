@@ -2,7 +2,7 @@
     "name": "Movie vnn",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://0cs3.onii.pp.ua/movie/plugins.json"
+      "https://raw.githubusercontent.com/lobambo3/work/refs/heads/main/plugins.json"
     ]
 }
 

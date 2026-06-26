@@ -1,0 +1,20 @@
+{
+  "accounts": [
+    "khoiphantuan98@gmail.com:Khoituanphan98@",
+    "labaolinh@gmail.com:Fdv@17051978"
+  ],
+  "vip_keys": {
+    "VIP_DEMO_123": {
+      "allowed_uses": 100,
+      "used_count": 5
+    },
+    "KHOIPHAN_VIP": {
+      "allowed_uses": 50,
+      "used_count": 0
+    },
+    "LABAOLINH_VIP": {
+      "allowed_uses": 10,
+      "used_count": 1
+    }
+  }
+}

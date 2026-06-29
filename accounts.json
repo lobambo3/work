@@ -1,0 +1,23 @@
+{
+  "accounts": [
+    "haihau88@gmail.com:tauhahrian111188",
+    "duongductoi@gmail.com:30@11@80",
+    "studio@fpt.com.vn:@1Studio1@130988",
+    "daia9.k39@gmail.com:Daidunai97",
+    "dinhdinh3005@gmail.com:Dinh3005!"
+  ],
+  "vip_keys": {
+    "VIP THH": {
+      "allowed_uses": 100,
+      "used_count": 10
+    },
+    "HPO VIP1": {
+      "allowed_uses": 100,
+      "used_count": 10
+    },
+    "HPO VIP2": {
+      "allowed_uses": 100,
+      "used_count": 10
+    }
+  }
+}
